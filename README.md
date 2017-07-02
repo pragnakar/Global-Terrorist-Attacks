@@ -1,5 +1,5 @@
 # Global-Terrorist-Attacks
-model that can predict what group may have been responsible for an incident using Random Forest Classifier
+model that can predict what group may have been responsible for an terrorist attack  using Random Forest Classifier
 
 A jupyter note book and data set are included as part of this repo.
 
